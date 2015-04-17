@@ -1,0 +1,13 @@
+{
+  "name": "rl-exam",
+  "version": "0.0.1",
+  "description": "The Tasks Theory in the Russian Language Exam",
+  "author": "Tsyrulnikov Gleb <gleb@redy.io>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-plumber": "latest",
+    "gulp-watch": "latest",
+    "browser-sync": "latest"
+  }
+}
